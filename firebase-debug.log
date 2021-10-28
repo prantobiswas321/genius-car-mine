@@ -1,63 +1,13 @@
-[debug] [2021-10-28T09:34:17.194Z] ----------------------------------------------------------------------
-[debug] [2021-10-28T09:34:17.196Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-10-28T09:34:17.196Z] CLI Version:   9.21.0
-[debug] [2021-10-28T09:34:17.197Z] Platform:      win32
-[debug] [2021-10-28T09:34:17.197Z] Node Version:  v16.1.0
-[debug] [2021-10-28T09:34:17.197Z] Time:          Thu Oct 28 2021 15:34:17 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-10-28T09:34:17.198Z] ----------------------------------------------------------------------
+[debug] [2021-10-28T09:45:30.506Z] ----------------------------------------------------------------------
+[debug] [2021-10-28T09:45:30.508Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-28T09:45:30.509Z] CLI Version:   9.21.0
+[debug] [2021-10-28T09:45:30.509Z] Platform:      win32
+[debug] [2021-10-28T09:45:30.509Z] Node Version:  v16.1.0
+[debug] [2021-10-28T09:45:30.510Z] Time:          Thu Oct 28 2021 15:45:30 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-28T09:45:30.510Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2021-10-28T09:34:17.255Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-10-28T09:34:17.256Z] > authorizing via signed-in user (rahulbd321@gmail.com)
-[info] 
-     ######## #### ########  ######## ########     ###     ######  ########
-     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
-     ######    ##  ########  ######   ########  #########  ######  ######
-     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
-     ##       #### ##     ## ######## ########  ##     ##  ######  ########
-
-You're about to initialize a Firebase project in this directory:
-
-  E:\projects\Genius-Car-Mechanics-Client
-
-Before we get started, keep in mind:
-
-  * You are initializing within an existing Firebase project directory
-
-[debug] [2021-10-28T09:37:21.164Z] ----------------------------------------------------------------------
-[debug] [2021-10-28T09:37:21.167Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-10-28T09:37:21.167Z] CLI Version:   9.21.0
-[debug] [2021-10-28T09:37:21.167Z] Platform:      win32
-[debug] [2021-10-28T09:37:21.167Z] Node Version:  v16.1.0
-[debug] [2021-10-28T09:37:21.168Z] Time:          Thu Oct 28 2021 15:37:21 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-10-28T09:37:21.168Z] ----------------------------------------------------------------------
-[debug] 
-[debug] [2021-10-28T09:37:21.225Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-10-28T09:37:21.226Z] > authorizing via signed-in user (rahulbd321@gmail.com)
-[info] 
-     ######## #### ########  ######## ########     ###     ######  ########
-     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
-     ######    ##  ########  ######   ########  #########  ######  ######
-     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
-     ##       #### ##     ## ######## ########  ##     ##  ######  ########
-
-You're about to initialize a Firebase project in this directory:
-
-  E:\projects\Genius-Car-Mechanics-Client
-
-Before we get started, keep in mind:
-
-  * You are initializing within an existing Firebase project directory
-
-[debug] [2021-10-28T09:38:17.209Z] ----------------------------------------------------------------------
-[debug] [2021-10-28T09:38:17.211Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-10-28T09:38:17.211Z] CLI Version:   9.21.0
-[debug] [2021-10-28T09:38:17.211Z] Platform:      win32
-[debug] [2021-10-28T09:38:17.212Z] Node Version:  v16.1.0
-[debug] [2021-10-28T09:38:17.212Z] Time:          Thu Oct 28 2021 15:38:17 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-10-28T09:38:17.212Z] ----------------------------------------------------------------------
-[debug] 
-[debug] [2021-10-28T09:38:17.273Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-10-28T09:38:17.273Z] > authorizing via signed-in user (rahulbd321@gmail.com)
+[debug] [2021-10-28T09:45:30.570Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-28T09:45:30.570Z] > authorizing via signed-in user (rahulbd321@gmail.com)
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
@@ -81,58 +31,11 @@ Before we get started, keep in mind:
 [info] but for now we'll just set up a default project.
 [info] 
 [info] i  .firebaserc already has a default project, using genius-car-mechanics. 
-[debug] [2021-10-28T09:38:23.178Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics [none]
-[debug] [2021-10-28T09:38:23.776Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics 403
-[debug] [2021-10-28T09:38:23.777Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
-[debug] [2021-10-28T09:38:23.778Z] HTTP Error: 403, The caller does not have permission
-[debug] [2021-10-28T09:38:23.981Z] FirebaseError: HTTP Error: 403, The caller does not have permission
-    at module.exports (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:38:12)
-    at Client.doRequest (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:240:23)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
-    at async Client.request (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:96:20)
-    at async Object.getFirebaseProject (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\management\projects.js:290:21)
-    at async Object.doSetup [as project] (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\features\project.js:77:27)
-    at async init (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\index.js:19:9)
-[error] 
-[error] Error: Failed to get Firebase project genius-car-mechanics. Please make sure the project exists and your account has permission to access it.
-[debug] [2021-10-28T09:38:57.941Z] ----------------------------------------------------------------------
-[debug] [2021-10-28T09:38:57.943Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
-[debug] [2021-10-28T09:38:57.943Z] CLI Version:   9.21.0
-[debug] [2021-10-28T09:38:57.943Z] Platform:      win32
-[debug] [2021-10-28T09:38:57.944Z] Node Version:  v16.1.0
-[debug] [2021-10-28T09:38:57.944Z] Time:          Thu Oct 28 2021 15:38:57 GMT+0600 (Bangladesh Standard Time)
-[debug] [2021-10-28T09:38:57.944Z] ----------------------------------------------------------------------
-[debug] 
-[debug] [2021-10-28T09:38:58.004Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2021-10-28T09:38:58.004Z] > authorizing via signed-in user (rahulbd321@gmail.com)
-[info] 
-     ######## #### ########  ######## ########     ###     ######  ########
-     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
-     ######    ##  ########  ######   ########  #########  ######  ######
-     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
-     ##       #### ##     ## ######## ########  ##     ##  ######  ########
-
-You're about to initialize a Firebase project in this directory:
-
-  E:\projects\Genius-Car-Mechanics-Client
-
-Before we get started, keep in mind:
-
-  * You are initializing within an existing Firebase project directory
-
-[info] 
-=== Project Setup
-[info] 
-[info] First, let's associate this project directory with a Firebase project.
-[info] You can create multiple project aliases by running firebase use --add, 
-[info] but for now we'll just set up a default project.
-[info] 
-[info] i  .firebaserc already has a default project, using genius-car-mechanics. 
-[debug] [2021-10-28T09:39:04.675Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics [none]
-[debug] [2021-10-28T09:39:05.157Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics 403
-[debug] [2021-10-28T09:39:05.157Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
-[debug] [2021-10-28T09:39:05.158Z] HTTP Error: 403, The caller does not have permission
-[debug] [2021-10-28T09:39:05.337Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+[debug] [2021-10-28T09:45:35.663Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics [none]
+[debug] [2021-10-28T09:45:36.298Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics 403
+[debug] [2021-10-28T09:45:36.299Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/genius-car-mechanics {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2021-10-28T09:45:36.300Z] HTTP Error: 403, The caller does not have permission
+[debug] [2021-10-28T09:45:36.703Z] FirebaseError: HTTP Error: 403, The caller does not have permission
     at module.exports (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:38:12)
     at Client.doRequest (C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:240:23)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
